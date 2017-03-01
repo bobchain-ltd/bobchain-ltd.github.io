@@ -1,6 +1,7 @@
 gems:
   - jemoji
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 title: Bobchain Ltd.
 description: The disruptive company that <a target="_blank" href="https://www.youtube.com/watch?v=J-GVd_HLlps">makes the World a better place</a> by revolutionizing everything
+show_downloads: false
